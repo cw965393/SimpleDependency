@@ -1,0 +1,14 @@
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\SimpleDependency\bin\Debug\netcoreapp2.2\SimpleDependency.deps.json
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\SimpleDependency\bin\Debug\netcoreapp2.2\SimpleDependency.runtimeconfig.json
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\SimpleDependency\bin\Debug\netcoreapp2.2\SimpleDependency.runtimeconfig.dev.json
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\SimpleDependency\bin\Debug\netcoreapp2.2\SimpleDependency.dll
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\SimpleDependency\bin\Debug\netcoreapp2.2\SimpleDependency.pdb
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\SimpleDependency\bin\Debug\netcoreapp2.2\MessagePrinter.dll
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\SimpleDependency\bin\Debug\netcoreapp2.2\MessagePrinter.pdb
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.csprojAssemblyReference.cache
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.csproj.CoreCompileInputs.cache
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.AssemblyInfoInputs.cache
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.AssemblyInfo.cs
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.csproj.CopyComplete
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.dll
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.pdb

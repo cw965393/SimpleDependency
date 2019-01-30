@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "\\\\stfiles.wtstudents.wtamu.edu\\users\\students\\STVS2SG1DB1\\965393\\CIDM4390\\Inclass 1\\SimpleDependency\\SimpleDependency.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

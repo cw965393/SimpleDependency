@@ -1,0 +1,9 @@
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\MessagePrinter\bin\Debug\netstandard2.0\MessagePrinter.deps.json
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\MessagePrinter\bin\Debug\netstandard2.0\MessagePrinter.dll
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\MessagePrinter\bin\Debug\netstandard2.0\MessagePrinter.pdb
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.csprojAssemblyReference.cache
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.csproj.CoreCompileInputs.cache
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.AssemblyInfoInputs.cache
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.AssemblyInfo.cs
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.dll
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS2SG1DB1\965393\CIDM4390\Inclass 1\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.pdb
